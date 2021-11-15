@@ -3,7 +3,7 @@
 Esse jogo tem o objetivo de fazer o maior numero de pontuação antes que o personagem perca todas as vidas. O jogo é composto por inimigos e por um elixir
 que quando o personagem enconstra recupera vidas no jogo. 
 
-<img align="center" alt="HTML" height="400" width="700" src="https://github.com/ninivehelen/Jogo/blob/main/jogo.png"></center>
+<img align="center" alt="HTML" height="400" width="700" src="https://github.com/ninivehelen/j/blob/master/jogo.png"></center>
 
 ## 🚀 Começando
 
