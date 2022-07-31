@@ -7,6 +7,8 @@ que quando o personagem enconstra recupera vidas no jogo.
 
 ## 🚀 Começando
 
+Link para jogar online https://replit.com/@ninivehelen/EtapaAvaliativa3#index.html
+
 Para poder jogar é necessário antes fazer o download do projeto. Faça o download dos arquivos zip. 
 
 ### 📋 Pré-requisitos
